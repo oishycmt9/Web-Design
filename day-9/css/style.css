@@ -1,0 +1,9 @@
+.carousel-item{
+    padding: 100px 250px;
+}
+.add-section{
+    background-color: aquamarine;
+    background: url("../img/2.jfif");
+    background-attachment: fixed;
+    background-size: 100% 100%;
+}
